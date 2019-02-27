@@ -1,3 +1,4 @@
+
 {
   "name": "@ibm-watson/assistant-simple",
   "description": "A simple Node.js based web app which shows how to use the Watson Assistant API to recognize user intents.",
